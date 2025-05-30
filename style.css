@@ -1,0 +1,79 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #eef2f7;
+    color: #333;
+  }
+  
+  .hero {
+    background: linear-gradient(rgba(0, 20, 60, 0.7), rgba(0, 20, 60, 0.7)),
+                url('./img/2.jpg') center/cover no-repeat;
+    padding: 100px 0;
+  }
+  
+  .hero h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: #fff;
+  }
+  
+  .hero p {
+    font-size: 1.3rem;
+    color: #ddd;
+  }
+  
+  .navbar-brand {
+    font-size: 1.6rem;
+    color: #fdfdfd;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #f0f0f0;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ffc107;
+  }
+  
+  section {
+    padding: 40px 0;
+  }
+  
+  .accordion-button {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .accordion-button:not(.collapsed) {
+    background-color: #0056b3;
+    color: #fff;
+  }
+  
+  .tab-content {
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 20px;
+  }
+  
+  .form-control {
+    border-radius: 0.5rem;
+    border: 1px solid #ced4da;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border: none;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+  }
+  
+  .list-group-item {
+    background-color: #f8f9fa;
+    font-weight: 500;
+  }
+  
+  h3, h4 {
+    font-weight: 600;
+    color: #003366;
+  }
